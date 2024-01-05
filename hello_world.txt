@@ -1,0 +1,3 @@
+Ce document est un document test!
+J'apprends actuellement Git, c'est fabuleux!
+Quelle invention, j'aurais aimé écrire mon mémoire avec cela, ça m'aurait évité des cris..
